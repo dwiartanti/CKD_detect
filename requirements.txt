@@ -1,6 +1,6 @@
 mlflow 
 scikit-learn
-imbalance-learn
+imbalanced-learn
 bayesion-optimization 
 joblib 
 streamlit 
